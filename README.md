@@ -7,4 +7,4 @@
 ## 5.) Developer Instructions
 ## 6.) Expectations
 ## 7.) Known Issues
-## 8.) Donations
+### 8.) Donations
